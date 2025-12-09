@@ -1,0 +1,13 @@
+sip_port: 5060
+rtp_port_start: 40000
+rtp_port_end: 40050
+
+#hostinger Public IP
+external_ip: "147.93.20.219"
+
+ws_url: ws://livekit:7880
+api_key: devkey
+api_secret: secret
+
+redis:
+  address: redis:6379
